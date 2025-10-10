@@ -1,0 +1,16 @@
+[StartTime]
+XV-Front Rotor-Issue-Static 2.MFC=3s
+[SolverState]
+XV-Front Rotor-Issue-Static 2.MFC=2
+[MainFrame]
+XV-Front Rotor-Issue-Static 2.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHHBAAAAAELDAAAAAKECAAAAA
+[ShowMin]
+XV-Front Rotor-Issue-Static 2.MFC=No
+[SolverType]
+XV-Front Rotor-Issue-Static 2.MFC=Linear Analysis
+[StudyType]
+XV-Front Rotor-Issue-Static 2.MFC=0
+[StudyName]
+XV-Front Rotor-Issue-Static 2.MFC=Static 2
+[Solver]
+XV-Front Rotor-Issue-Static 2.MFC=Iterative
