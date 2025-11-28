@@ -1,9 +1,9 @@
 [StartTime]
-XV-Front Rotor-Issue-static fr this time.MFC=38s
+XV-Front Rotor-Issue-static fr this time.MFC=19s
 [SolverState]
 XV-Front Rotor-Issue-static fr this time.MFC=2
 [MainFrame]
-XV-Front Rotor-Issue-static fr this time.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPFBCAAAAADIBAAAAANHDAAAAAGFCAAAAA
+XV-Front Rotor-Issue-static fr this time.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPAOCAAAAAALBAAAAAIEEAAAAADICAAAAA
 [ShowMin]
 XV-Front Rotor-Issue-static fr this time.MFC=No
 [SolverType]
@@ -13,4 +13,4 @@ XV-Front Rotor-Issue-static fr this time.MFC=0
 [StudyName]
 XV-Front Rotor-Issue-static fr this time.MFC=static fr this time
 [Solver]
-XV-Front Rotor-Issue-static fr this time.MFC=Iterative
+XV-Front Rotor-Issue-static fr this time.MFC=Sparse
