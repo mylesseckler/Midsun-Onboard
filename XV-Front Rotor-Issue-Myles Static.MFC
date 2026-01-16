@@ -1,0 +1,16 @@
+[StartTime]
+XV-Front Rotor-Issue-Myles Static.MFC=16s
+[SolverState]
+XV-Front Rotor-Issue-Myles Static.MFC=2
+[MainFrame]
+XV-Front Rotor-Issue-Myles Static.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+XV-Front Rotor-Issue-Myles Static.MFC=No
+[SolverType]
+XV-Front Rotor-Issue-Myles Static.MFC=Linear Analysis
+[StudyType]
+XV-Front Rotor-Issue-Myles Static.MFC=0
+[StudyName]
+XV-Front Rotor-Issue-Myles Static.MFC=Myles Static
+[Solver]
+XV-Front Rotor-Issue-Myles Static.MFC=Sparse
